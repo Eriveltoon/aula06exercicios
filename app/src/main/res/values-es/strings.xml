@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">aula06exercicios</string>
+    <string name="nike">Descripción sobre Nike</string>
+    <string name="adidas">Descripción sobre Adidas</string>
+    <string name="puma">Descripción sobre Puma</string>
+    <string name="spinner">Elige un genero</string>
+    <string name="spinnerAcao">Acción</string>
+    <string name="spinnerEsporte">Deporte</string>
+    <string name="spinnerAventura">Aventura</string>
+    <string name="spinPlataforma">"Elegir plataforma "</string>
+    <string name="spinPlatPc">Pc</string>
+    <string name="spinPlatPlaystaition">Playstaition</string>
+    <string name="spinPlatXbox">Xbox</string>
+    <string name="spinPlatMultiplataforma">Multiplataforma</string>
+    <string name="btnConfirmar">Confirmar</string>
+    <string name="email">Email</string>
+    <string name="telefone">Telefone</string>
+    <string name="contato_tel">"Contacto por teléfono "</string>
+    <string name="contato_email">"Contacto por Email "</string>
+    <string name="sim">Si</string>
+    <string name="nao">No</string>
+</resources>
